@@ -1,10 +1,12 @@
 /* 主顏色 */
 :root {
-    --primary-color: #007BFF;
+    --primary-color: #000;
     --secondary-color: #6C757D;
     --white-color: #FFFFFF;
     --light-grey: #F5F5F5;
-    margin: 20px;
+    margin: 10px;
+    padding: 20px;
+    border: #000 solid 1px;
 }
 
 body {
